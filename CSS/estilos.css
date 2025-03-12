@@ -5,3 +5,5 @@ body{
     input{ border-radius: 15px;}
     button{ border-radius: 15px;}
     textarea{ border-radius: 15px;}
+    
+#formulario{background-color: aqua;}    
