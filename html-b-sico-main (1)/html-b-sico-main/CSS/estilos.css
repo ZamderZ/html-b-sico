@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(23, 152, 118);
+}
+#fondo{background-color: cadetblue;}
+    input{ border-radius: 15px;}
+    button{ border-radius: 15px;}
+    textarea{ border-radius: 15px;}
+    
+#formulario{background-color: aqua;}    
